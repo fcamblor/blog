@@ -250,7 +250,7 @@ Cependant il peut vous manquer des outils qui vous sont nécessaires et là enco
 Les _Dev Containers_ viennent avec deux manières de le faire : créer sa propre image ou utiliser la notion de _features_.
 Nous verrons la création d'image dans un autre article sur l'utilisation plus avancée des _Dev Containers_, concentrons nous sur la notion de _features_.
 Les _features_ permettent donc d'enrichir votre _Dev Container_ via un [catalogue](https://containers.dev/features){:target="_blank"} de _features_.
-Nous allons voir comment les utiliser et comment les paramétrées au mieux pour répondre à nos besoins 😉.
+Nous allons voir comment les utiliser et comment les paramétrer au mieux pour répondre à nos besoins 😉.
 
 Imaginons que je veuille installer l'outil [JQ](https://jqlang.github.io/jq/){:target="_blank"}:
 ```json
